@@ -1,0 +1,5 @@
+tool,db_name,db_params,db_type,db_path
+kraken2,db1,--quick,short,testdb-kraken2.tar.gz
+centrifuge,db2,,short,test-db-centrifuge.tar.gz
+centrifuge,db2_trimmed,--trim5 2 --trim3 2,long,test-db-centrifuge.tar.gz
+kaiju,db3,,short;long,kaiju.tar.gz

@@ -1,0 +1,4 @@
+In this nextflow directory the main files of topic 5 nextflow assignment run are stored.
+The execution_report contains information about the pipeline execution steps, duration, 
+recource use. The multiqc report has main results of the analysis. The nextflow.config
+file contains parameters used.
